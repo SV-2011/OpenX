@@ -4,14 +4,14 @@ Linus Torvalds (creator of Linux)
 ## Version Control
 - Program that tracks changes to a collection of files
 - Track all the different revisions 
-- Recall to earlier version
+- Recall to earlier version (rollback to working code)
 - Allow several team members to work on same file, at same time without affecting each other's work
 
 1. See Changes (when & why & who) made them
 2. Each change Explain the reasoning behind it
-3. Create Branches - Experemental Changes (Features, Bug Fixes, Security)
+3. Create **Branches** - Experemental Changes (Features, Bug Fixes, Security)
 4. Every small change make a commit, better to fix problems
-5. Merge the changes, you want to keep in main branch 
+5. **Merge** the changes, you want to keep in main branch 
 6. Delete the branch
 
 ## Distributed Version Control
@@ -19,8 +19,6 @@ Git is Distributed
 Project complete history is stored both in the Client and the Server.
 Edit without Network Connection, you have a local copy if server goes down
 Push to remote server, when connection available.
-
-
 ## Git Terminology
 
 #### Working tree
