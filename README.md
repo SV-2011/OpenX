@@ -62,7 +62,6 @@ more command line tools
 - Actions
 - Forks
 - Projects
->>>>>>> Working-Branch
 
 ## Basic Git Commands
 
